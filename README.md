@@ -30,3 +30,6 @@ Dataset
 The notebook uses breast cancer data to explore tumor measurements and classify cases as benign or malignant.
 
 Some cells load a local file named breast-cancer.csv. Put that file in the same folder as the notebook before running those cells. Other cells use the breast cancer dataset included with Scikit-learn.
+
+Notes
+The project is for learning and practice. The model scores depend on the dataset and the train-test split. This notebook is not a medical tool and should not be used to diagnose anyone
